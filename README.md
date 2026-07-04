@@ -12,7 +12,7 @@ My work focuses on applying **Machine Learning**, **Density Functional Theory (D
 
 Beyond academia, I enjoy building AI-powered applications, workflow automation tools, scientific software, and full-stack projects that solve real-world problems.
 
-🌎 **Languages:** Portuguese (Native), English, Spanish
+🌎 **Languages:** Portuguese (Native), English
 
 ---
 
