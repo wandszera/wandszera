@@ -45,7 +45,7 @@ Beyond academia, I enjoy building AI-powered applications, workflow automation t
 | **Workflow VASP** | Intelligent workflow automation for Density Functional Theory (DFT) calculations in HPC clusters. | Python • SLURM • SSH • Linux |
 | **Devotional App** | Cross-platform mobile application for habit tracking, devotionals, and user engagement. | Flutter • FastAPI |
 | **Stock Flow** | Full-stack inventory management system with authentication, reporting, and stock control. | Python • SQLAlchemy • FastAPI |
-| **Olist Analytics** | Exploratory data analysis and KPI dashboard using the Brazilian E-Commerce dataset. | Jupyter • Pandas • Python |
+| **Catholic Renewal France** | Reproducible data science investigation of religious trends in France using interrupted time-series and OLS econometrics. | Python • Pandas • Statsmodels |
 
 ---
 
