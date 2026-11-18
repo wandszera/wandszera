@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Wanderson Araujo
 
-### ** Computational Physicist | Machine Learning Engineer**
+### **Computational Physicist | Machine Learning Engineer**
 
 ---
 
@@ -30,6 +30,8 @@ Beyond academia, I enjoy building AI-powered applications, workflow automation t
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-5A3E99?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-009688?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -55,11 +57,12 @@ Beyond academia, I enjoy building AI-powered applications, workflow automation t
 
 | Project | Description | Tech Stack |
 |----------|-------------|------------|
-| **Cut SaaS** | AI-powered video clipping platform using LLMs and heuristic scoring for automatic highlight generation. | Python • FastAPI • AI |
-| **Workflow VASP** | Intelligent workflow automation for Density Functional Theory (DFT) calculations in HPC clusters. | Python • SLURM • SSH • Linux |
-| **Devotional App** | Cross-platform mobile application for habit tracking, devotionals, and user engagement. | Flutter • FastAPI |
-| **Stock Flow** | Full-stack inventory management system with authentication, reporting, and stock control. | Python • SQLAlchemy • FastAPI |
-| **Catholic Renewal France** | Reproducible data science investigation of religious trends in France using interrupted time-series and OLS econometrics. | Python • Pandas • Statsmodels |
+| [**Temporal RAG for CRM**](https://github.com/wandszera/temporal_RAG) | Learning project on time-aware retrieval: bitemporal storage over a synthetic CRM timeline, LangGraph agent, retrieval ablation, strict evaluation and PII redaction. | Python • LangGraph • PostgreSQL/pgvector • FastAPI |
+| [**Cut SaaS**](https://github.com/wandszera/cut-saas) | AI-powered video clipping platform combining heuristic scoring with LLM-as-judge (OpenAI / Ollama) for automatic highlight generation. | Python • FastAPI • Whisper • LLMs |
+| [**Workflow VASP**](https://github.com/wandszera/workflow-vasp) | Workflow automation for DFT calculations on HPC clusters: input validators, output parsers and a LangGraph-based diagnosis workflow. | Python • FastAPI • LangGraph • SLURM |
+| [**Stock Flow**](https://github.com/wandszera/stock) | Full-stack inventory management system with authentication, reporting, forecasting and stock control. | Python • SQLAlchemy • FastAPI |
+| [**Catholic Renewal France**](https://github.com/wandszera/catholic-renewal-france) | Reproducible data science investigation of religious trends in France using interrupted time-series and OLS econometrics. | Python • Pandas • Statsmodels |
+| [**Devotional App**](https://github.com/wandszera/app-devotional) | Cross-platform mobile application for habit tracking, devotionals, and user engagement. | Flutter • FastAPI |
 
 ---
 
