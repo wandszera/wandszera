@@ -58,6 +58,7 @@ Beyond academia, I enjoy building AI-powered applications, workflow automation t
 | Project | Description | Tech Stack |
 |----------|-------------|------------|
 | [**Temporal RAG for CRM**](https://github.com/wandszera/temporal_RAG) | Learning project on time-aware retrieval: bitemporal storage over a synthetic CRM timeline, LangGraph agent, retrieval ablation, strict evaluation and PII redaction. | Python • LangGraph • PostgreSQL/pgvector • FastAPI |
+| [**MLFF Data Curation**](https://github.com/wandszera/mlff-data-curation) | Data-quality tool for machine-learned force fields: multicriteria redundancy filtering (SOAP + energy + force), greedy selection and FPS, with a reproducible benchmark against random subsets. | Python • dscribe • ASE • scikit-learn |
 | [**Cut SaaS**](https://github.com/wandszera/cut-saas) | AI-powered video clipping platform combining heuristic scoring with LLM-as-judge (OpenAI / Ollama) for automatic highlight generation. | Python • FastAPI • Whisper • LLMs |
 | [**Workflow VASP**](https://github.com/wandszera/workflow-vasp) | Workflow automation for DFT calculations on HPC clusters: input validators, output parsers and a LangGraph-based diagnosis workflow. | Python • FastAPI • LangGraph • SLURM |
 | [**Stock Flow**](https://github.com/wandszera/stock) | Full-stack inventory management system with authentication, reporting, forecasting and stock control. | Python • SQLAlchemy • FastAPI |
